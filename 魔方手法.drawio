@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="qbaZoFIAaxUXQSAvVybF">
-    <mxGraphModel>
+    <mxGraphModel dx="967" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U-DEJ9VqRbcO6eVQU_MJ-2" value="C &lt;br&gt;Cross &lt;br&gt;底层十字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-DEJ9VqRbcO6eVQU_MJ-3" value="&lt;p&gt;F2L &lt;br&gt;First two layers &lt;br&gt;前两层&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-DEJ9VqRbcO6eVQU_MJ-4" value="OLL&lt;br&gt;Orientation of last layer&lt;br&gt;顶层朝向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-DEJ9VqRbcO6eVQU_MJ-5" value="PLL&lt;br&gt;Permutation of last layer&lt;br&gt;顶层顺序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-DEJ9VqRbcO6eVQU_MJ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
